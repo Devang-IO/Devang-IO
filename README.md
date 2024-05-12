@@ -1,4 +1,7 @@
-![7he R4](https://github.com/Devang-IO/Devang-IO/assets/90950290/75595bf4-60f1-475d-bc4f-1f8eb1efe553)
+
+![Pixilart - Live on](https://github.com/Devang-IO/Devang-IO/assets/90950290/6521b661-9461-4b71-82a3-9784351c3354)
+
+
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Devang-IO.Devang-IO)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
