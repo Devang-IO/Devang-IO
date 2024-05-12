@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=zhenye-na.zhenye-na)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Devang-IO.Devang-IO)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
 ```python
@@ -22,4 +22,4 @@ class SoftwareEngineer:
 me = SoftwareEngineer()
 me.say_hi()
 ```
-[![Devang's GitHub stats](https://github-readme-stats.vercel.app/api?username=Devang-IO)](https://github.com/Devang-IO/github-readme-stats)
+
