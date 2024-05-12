@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-![Visitor Count](https://profile-counter.glitch.me/Devang-IO/count.svg)
+[![Visits Badge](https://badges.pufler.dev/visits/pujux/badge-it)](https://badges.pufler.dev)
+
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
 ```python
