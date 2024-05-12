@@ -1,10 +1,3 @@
-
-![Chill Mario 2023 ver_, Pixel Jeff](https://github.com/Devang-IO/Devang-IO/assets/90950290/59ed4f64-95f4-4054-a8f0-0a95e20d5b89)
-
-![warmth, frogapples](https://github.com/Devang-IO/Devang-IO/assets/90950290/f0d83660-e208-4141-b72e-9395f81f931b)
-
-![Artist Creates The Best Japanese Pixel Art GIFs on Earth](https://github.com/Devang-IO/Devang-IO/assets/90950290/7a439b06-ed71-47db-9a0b-8a3d54e527d9)
-
 ![Animated Pixel Art Creations by Kirokaze _ Inspiration Grid](https://github.com/Devang-IO/Devang-IO/assets/90950290/b7454ec7-b5f5-4dcc-9ed0-c74f16a70eda)
 
 
