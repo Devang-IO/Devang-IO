@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hey there, I'm Devang.">
-</p>
+![Hey there, I'm Devang. I'm a software developer, a curious enthusiast. Check out my work](https://github.com/CyrisXD/CyrisXD/raw/master/header.gif)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Devang-IO.Devang-IO)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
