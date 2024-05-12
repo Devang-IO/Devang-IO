@@ -8,11 +8,11 @@
 # -*- coding: utf-8 -*-
 
 
-class SoftwareEngineer:
+class SoftwareDeveloper:
 
     def __init__(self):
         self.name = "Devang Patel"
-        self.role = "Software Engineer"
+        self.role = "Software Developer"
         self.language_spoken = ["hi_IN", "en_US", "gu_IN"]
 
     def say_hi(self):
