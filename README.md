@@ -1,4 +1,6 @@
-### Hi there 👋
+<p align="center">
+  <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hey there, I'm Devang.">
+</p>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Devang-IO.Devang-IO)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
