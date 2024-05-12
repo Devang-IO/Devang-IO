@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-[![Visits Badge](https://badges.pufler.dev/visits/pujux/badge-it)](https://badges.pufler.dev)
-
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Devang-IO)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
 ```python
