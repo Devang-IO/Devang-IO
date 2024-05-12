@@ -1,5 +1,4 @@
-![Hey there, I'm Devang. I'm a software developer, a curious enthusiast. Check out my work](https://github.com/CyrisXD/CyrisXD/raw/master/header.gif)
-
+![7he R4](https://github.com/Devang-IO/Devang-IO/assets/90950290/75595bf4-60f1-475d-bc4f-1f8eb1efe553)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Devang-IO.Devang-IO)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
