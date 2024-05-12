@@ -1,5 +1,4 @@
-![Artist Creates The Best Japanese Pixel Art GIFs on Earth](https://github.com/Devang-IO/Devang-IO/assets/90950290/2018913b-ec28-4d52-9986-88217683b191)
-
+![Animated Pixel Art Creations by Kirokaze _ Inspiration Grid](https://github.com/Devang-IO/Devang-IO/assets/90950290/851f1f6b-2fd0-499c-8850-b93141ba9e8c)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Devang-IO.Devang-IO)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
